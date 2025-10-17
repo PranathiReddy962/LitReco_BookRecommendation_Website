@@ -1,4 +1,4 @@
-# LitRec 📚✨
+# LitRec 📖✨
 
 **LitRec** is a modern, responsive book recommendation system built with Python and Flask. It features collaborative filtering for personalized book suggestions, a clean UI, and essential functionality for discovering books efficiently.
 

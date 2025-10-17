@@ -19,6 +19,6 @@
 
 ## Screenshots
 
-![Home Page](./Book_Recommendations/Home.png)
+![Home Page](./ScreenShots/Home.png)
 ![Recommendation Page](./Book_Recommendations/Recommend.png)
 ![Book Details](./Book_Recommendations/Book_Recommendations.png)

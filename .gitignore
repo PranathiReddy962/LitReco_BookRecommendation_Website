@@ -1,0 +1,13 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large data/model files
+*.pkl
+*.csv
+
+# Empty folders
+Book_Recommender/model/
